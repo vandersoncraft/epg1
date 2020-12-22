@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD [ALT]">
+    <display-name lang="pt">AMC FHD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC H265">
+    <display-name lang="pt">AMC H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD  [ALT]">
+    <display-name lang="pt">AMC HD  [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC [ALT]">
+    <display-name lang="pt">AMC [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action FHD LEG">
+    <display-name lang="pt">Telecine Action FHD LEG</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action HD LEG">
+    <display-name lang="pt">Telecine Action HD LEG</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action LEG">
+    <display-name lang="pt">Telecine Action LEG</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action [4K]">
+    <display-name lang="pt">Telecine Action [4K]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE ACTION H265">
+    <display-name lang="pt">TELECINE ACTION H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE ACTION HD [ALT]">
+    <display-name lang="pt">TELECINE ACTION HD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE ACTION [ALT]">
+    <display-name lang="pt">TELECINE ACTION [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
